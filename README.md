@@ -9,9 +9,9 @@ This repository is created for the UniRazak Fundamental of Programming course's 
 ## Repository Content
 
 ### 1. Source Codes
-- **`CalculateSixMarks.java`**
+- **`src/CalculateSixMarks.java`**
   - The Java program that contains the solution for Question 1 of the assignment.
-- **`SolveEquations.java`**
+- **`src/SolveEquations.java`**
   - The Java program that contains the solution for Question 2 of the assignment.
 
 ### 2. Assignment Report
