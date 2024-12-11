@@ -1,3 +1,5 @@
+package calculatesixmarks;
+
 import java.util.Scanner;
 
 public class CalculateSixMarks {
