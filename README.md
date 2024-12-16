@@ -19,7 +19,7 @@ This repository is created for the UniRazak Fundamental of Programming course's 
   - A detailed report that outlines the problem statement, solution design, and results.
 
 ### 3. Assignment Instructions
-- **`Instructions.png`**
+- **`Instructions.pdf`**
   - Instructions and requirements of the Java program for the assignment.
 
 ---
