@@ -1,6 +1,6 @@
 
 
-# UniRazak Fundamental of Programming - Assignment 1
+# Fundamental of Programming - Assignment 1
 
 This repository is created for the UniRazak Fundamental of Programming course's Assignment 1. The goal of this assignment is to apply fundamental programming concepts to solve a given problem. The solution is implemented in Java and includes documentation to support the code.
 
@@ -15,11 +15,11 @@ This repository is created for the UniRazak Fundamental of Programming course's 
   - The Java program that contains the solution for Question 2 of the assignment.
 
 ### 2. Assignment Report
-- **`Assignment1_Report.pdf`**
+- **`Report.pdf`**
   - A detailed report that outlines the problem statement, solution design, and results.
 
 ### 3. Assignment Instructions
-- **`Assignment1_Instructions.png`**
+- **`Instructions.png`**
   - Instructions and requirements of the Java program for the assignment.
 
 ---
@@ -53,7 +53,7 @@ Before running the program, ensure you have the following:
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/nurulashraf/ur-fop-as1.git
+   git clone https://github.com/nurulashraf/programming-assignment-java.git
    ```
 
 2. **Open the Project**
@@ -73,7 +73,7 @@ The assignment report includes:
 - Test cases and expected results.
 - Screenshots of the program output.
 
-Refer to the `Assignment1_Report.pdf` for detailed documentation.
+Refer to the `Report.pdf` for detailed documentation.
 
 ---
 
