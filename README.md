@@ -79,5 +79,5 @@ This project is a learning exercise and not open for direct contributions. Howev
 
 ---
 
-License
-This repository is for educational purposes and is licensed under the MIT License.
+## License
+This repository is for educational purposes and is licensed under the [MIT License](LICENSE).
