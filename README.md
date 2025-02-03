@@ -51,7 +51,7 @@ Before running the programs, ensure you have the following:
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/nurulashraf/programming-assignment-java.git  
+   git clone https://github.com/nurulashraf/java-calculations-and-equations.git  
 
 2. **Open the Project**  
   Import the project into your preferred Java IDE.
